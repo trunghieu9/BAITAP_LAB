@@ -6,4 +6,4 @@
  - Framework: numpy, matplotlib.pyplot
 ## 2. Hiển thị kết quả:
 
-![Lab]lap1-main/wed.png
+![Lab](wed.png)
